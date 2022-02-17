@@ -27,14 +27,14 @@ dev_hdd0 / game / ID game / USRDIR / packed / game / global_cached (replace the 
 
 **Challenge**
 - Complete the game at 100%
-All V10 weapons
-All Raritanium upgrades
-All items (charge boots, box breaker, treasure mapper, armor magnetiser)
-All skill points
-All Gold Bolts
-Max Health
-Trillium Armor
-Golden Groovitron
+- All V10 weapons
+- All Raritanium upgrades
+- All items (charge boots, box breaker, treasure mapper, armor magnetiser)
+- All skill points
+- All Gold Bolts
+- Max Health
+- Trillium Armor
+- Golden Groovitron
 - Please play in casual (no glitches, no tricks, no skips)
 
 # Ratchet & Clank Quest for Booty Legendary Difficulty
