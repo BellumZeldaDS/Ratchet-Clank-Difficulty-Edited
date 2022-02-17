@@ -35,7 +35,7 @@ dev_hdd0 / game / ID game / USRDIR / packed / game / global_cached (replace the 
 - Max Health
 - Trillium Armor
 - Golden Groovitron
-- Please play in casual (no glitches, no tricks, no skips, warp death and more...)
+- Please play in casual (no glitches, no tricks, no skips, warp death, ignoring the less possible the battles and more...)
 
 # Ratchet & Clank Quest for Booty Legendary Difficulty
 
