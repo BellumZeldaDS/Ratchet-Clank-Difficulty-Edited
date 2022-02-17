@@ -4,6 +4,8 @@
 
 # Ratchet & Clank Tools of Destruction Legendary Difficulty
 
+**[Download](https://www.mediafire.com/file/060bqndvl028j6g/global_cached.psarc/file)**
+
 Credits:
 - Created by BellumZeldaDS/RoyalHack
 - Testing by UY_Ymir Adam_c_02 and more players
