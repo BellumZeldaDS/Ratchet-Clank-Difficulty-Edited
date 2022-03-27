@@ -2,6 +2,16 @@
 
 **PS3/RPCS3**
 
+# Ratchet & Clank 2 Going Commando
+
+- Extra Platinum Bolts : Coming soon
+- Backup normal version :
+
+# Ratchet & Clank 3 Up Your Arsenal
+
+- Extra Titanium Bolts : Coming soon
+- Backup normal version :
+
 # Ratchet & Clank Tools of Destruction Legendary Difficulty
 
 - Legendary difficulty : **[Download](https://www.mediafire.com/file/060bqndvl028j6g/global_cached.psarc/file)**
