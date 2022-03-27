@@ -2,12 +2,12 @@
 
 **PS3/RPCS3**
 
-# Ratchet & Clank 2 Going Commando
+# Ratchet & Clank 2 Going Commando Extra Platinum Bolts
 
 - Extra Platinum Bolts : Coming soon
 - Backup normal version :
 
-# Ratchet & Clank 3 Up Your Arsenal
+# Ratchet & Clank 3 Up Your Arsenal Extra Titanium Bolts
 
 - Extra Titanium Bolts : Coming soon
 - Backup normal version :
