@@ -7,10 +7,52 @@
 - Extra Platinum Bolts : Coming soon
 - Backup normal version :
 
+Credits:
+- Created by BellumZeldaDS/RoyalHack
+- Testing by
+
+**INSTALLATION**
+
+To install the **.psarc you** have to **PUT** the **.psarc** in the installation folder on the PS3 :
+
+dev_hdd0 / game / ID game / USRDIR / packed / game / global_cached (replace the original file here)
+
+- **EUROPE DISC**: BCES01503
+- **EUROPE DIGITAL : NPEA00386**
+- **AMERICAN DISC** : BCUS98282
+- **AMERICAN DIGITAL : NPUA80644**
+- **JAPANESE DISC** : Unknown
+- **JAPANESE DIGITAL** : Unknow
+
+(Unknow = I don't know which one it is)
+
+**Challenge**
+
 # Ratchet & Clank 3 Up Your Arsenal Extra Titanium Bolts
 
 - Extra Titanium Bolts : Coming soon
 - Backup normal version :
+
+Credits:
+- Created by BellumZeldaDS/RoyalHack
+- Testing by
+
+**INSTALLATION**
+
+To install the **.psarc you** have to **PUT** the **.psarc** in the installation folder on the PS3 :
+
+dev_hdd0 / game / ID game / USRDIR / packed / game / global_cached (replace the original file here)
+
+- **EUROPE DISC**: BCES01503
+- **EUROPE DIGITAL : NPEA00387**
+- **AMERICAN DISC** : BCUS98282
+- **AMERICAN DIGITAL : NPUA80645**
+- **JAPANESE DISC** : Unknown
+- **JAPANESE DIGITAL** : Unknow
+
+(Unknow = I don't know which one it is)
+
+**Challenge**
 
 # Ratchet & Clank Tools of Destruction Legendary Difficulty
 
