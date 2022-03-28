@@ -13,7 +13,7 @@ Credits:
 
 **INSTALLATION**
 
-To install the **.psarc you** have to **PUT** the **.psarc** in the installation folder on the PS3 :
+To install the **.psarc you** have to **PUT** the **.psarc** in the installation folder on the PS3 or RPCS3 :
 
 dev_hdd0 / game / ID game / USRDIR / packed / game / global_cached (replace the original file here)
 
@@ -39,7 +39,7 @@ Credits:
 
 **INSTALLATION**
 
-To install the **.psarc you** have to **PUT** the **.psarc** in the installation folder on the PS3 :
+To install the **.psarc you** have to **PUT** the **.psarc** in the installation folder on the PS3 or RPCS3 :
 
 dev_hdd0 / game / ID game / USRDIR / packed / game / global_cached (replace the original file here)
 
@@ -65,7 +65,7 @@ Credits:
 
 **INSTALLATION**
 
-To install the **.psarc you** have to **PUT** the **.psarc** in the installation folder on the PS3 :
+To install the **.psarc you** have to **PUT** the **.psarc** in the installation folder on the PS3 or RPCS3 :
 
 dev_hdd0 / game / ID game / USRDIR / packed / game / global_cached (replace the original file here)
 
