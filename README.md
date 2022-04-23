@@ -1,6 +1,6 @@
 # Ratchet-Clank-Difficulty-Edited
 
-**PS3/RPCS3**
+**PS3 + RPCS3**
 
 # Ratchet & Clank 1 Extra Gold Bolts
 
